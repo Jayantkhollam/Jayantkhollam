@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3odR.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantkhollam&label=Profile%20views&color=0e75b6&style=flat" alt="jayantkhollam" /> </p>
 
-- 🔭 I’m currently working on **Hotstar Clone using HTML,CSS,Bootstrap**
+- 🔭 I’m currently working on ** portfolio projects **
 
 - 🌱 I’m currently learning **javascript,Angular**
 
